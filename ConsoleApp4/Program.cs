@@ -22,7 +22,7 @@ namespace ConsoleApp4
                 new Book() { Name = "Harry Doter 1", Year = 1111, Author = "Juan Crawling" },
                 new Book() { Name = "Harry Doter 2", Year = 1111, Author = "Juan Crawling" },
                 new Book() { Name = "Harry Doter 3", Year = 1111, Author = "Juan Crawling" },
-                new Book() { Name = "Mein Kampf", Year = 1925, Author = "Adolg Hitler" },
+                new Book() { Name = "Mein Kampf", Year = 1925, Author = "Adolf Hitler" },
                 new Book() { Name = "LINQ", Year = 2000, Author = "Some guy" },
                 new Book() { Name = "ololo", Year = 2017, Author = "Vasya"}
             };
